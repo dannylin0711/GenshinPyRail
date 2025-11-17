@@ -6,7 +6,7 @@ authors = ["Deviant <deviantapi@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-Pillow = "^9.4.0"
+Pillow = "^10.2.0"
 cachetools = "^5.2.0"
 genshin = "^1.7.1"
 pydantic = "^1.10.13"
@@ -16,3 +16,4 @@ pydantic = "^1.10.13"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
